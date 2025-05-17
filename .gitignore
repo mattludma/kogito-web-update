@@ -33,3 +33,4 @@ public/build/img/*
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+/.env
