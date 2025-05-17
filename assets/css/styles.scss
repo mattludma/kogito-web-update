@@ -2,7 +2,7 @@
 
 // normalize ( https://necolas.github.io/normalize.css/ )
 @import "libs/normalize";
-@import "libs_used/*";
+@import "libs_used/fonts_init";
 
 @import "base/base";
 @import "base/layout";
@@ -11,7 +11,7 @@
 @import "base/forms";
 @import "icons/icon";
 
-@import "components/*";
+@import "components/nav-switcher";
 
 @import "base/helpers";
 @import "base/print";

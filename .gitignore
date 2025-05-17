@@ -1,4 +1,4 @@
-.git*
+.gitignore
 !.gitignore
 /log
 node_modules/*
